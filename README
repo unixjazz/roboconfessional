@@ -1,0 +1,14 @@
+------------------------------
+Roboconfessional @ Noisebridge
+------------------------------
+
+A robo-priest - THX1138-inspired - will tell you stories about Noisebridge and its discontents.
+It will hear your confessions as well and share with the Internets. Tell it your sins. 
+
+- This project was created to comment on political affairs involving hackerspaces, makerspaces, 
+and their sources and plans for the future.
+
+- Depends on python-gst, gtk, and gstreamer0.10
+
+See LICENSE and AUTHORS for more info.
+
